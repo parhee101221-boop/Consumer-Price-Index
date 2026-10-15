@@ -1,3 +1,11 @@
+![Consumer Price Index Analysis](cpi-analysis-banner.png)
+
+# 📊 Consumer Price Index (CPI) Analysis
+
+*Analyzing inflation trends, category-wise contributions, and economic patterns using Microsoft Excel.*
+
+
+
 <div align="center">
 
 # Consumer Price Index (CPI) Analysis
