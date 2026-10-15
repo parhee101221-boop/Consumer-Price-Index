@@ -1,9 +1,10 @@
 <div align="center">
 
-# 📊 Consumer Price Index (CPI) Analysis
+# Consumer Price Index (CPI) Analysis
 ### Exploring India’s Price-Level Trends | 2013–2023
 
 **An Excel-based data analytics case study on long-term CPI movement, category contribution, year-over-year change, month-over-month change, and pre-/post-COVID patterns.**
+
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analytics-0F766E?style=for-the-badge)
