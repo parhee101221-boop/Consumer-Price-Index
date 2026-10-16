@@ -54,7 +54,7 @@ The workbook compares Rural, Urban, and Rural+Urban index series and includes fo
 ## 5. 📈 Visualizations
 
 ### Y=O-Y CPI Trand
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/36cb724f-f776-42eb-a5cd-e85593d5e08a" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/36cb724f-f776-42eb-a5cd-e85593d5e08a" />
 
 
 ### Category Contribution Summary
