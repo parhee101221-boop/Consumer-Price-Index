@@ -53,11 +53,9 @@ The workbook compares Rural, Urban, and Rural+Urban index series and includes fo
 
 ## 5. 📈 Visualizations
 
-### Annual CPI Trend
+### Y=O-Y CPI Trand
 <img width="1048" height="582" alt="image" src="https://github.com/user-attachments/assets/36cb724f-f776-42eb-a5cd-e85593d5e08a" />
 
-
-The annual-average General Index shows a long-term upward movement. **2023 represents January–April only**, not a complete calendar year.
 
 ### Category Contribution Summary
 
